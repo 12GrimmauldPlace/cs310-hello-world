@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Tiffany O'Dell
  */
 
 public class Class2 {
